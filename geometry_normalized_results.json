@@ -1,0 +1,63 @@
+{
+  "clusters": {
+    "Abell 2146": {
+      "TSP": 0.24,
+      "offset_kpc": 40,
+      "geom_scale_norm": 0.4037151198133753,
+      "normalized_offset": 99.07976698641045,
+      "excluded": false
+    },
+    "Bullet": {
+      "TSP": 0.18,
+      "offset_kpc": 220,
+      "geom_scale_norm": 1.0,
+      "normalized_offset": 220.0,
+      "excluded": false
+    },
+    "Abell 2345": {
+      "TSP": 0.35,
+      "offset_kpc": 130,
+      "geom_scale_norm": 4.089686655740597,
+      "normalized_offset": 31.787276371778276,
+      "excluded": false
+    },
+    "ZwCl 0008": {
+      "TSP": 0.76,
+      "offset_kpc": 100,
+      "geom_scale_norm": 2.6174587066208526,
+      "normalized_offset": 38.20499622288228,
+      "excluded": false
+    },
+    "Sausage (N)": {
+      "TSP": 0.9,
+      "offset_kpc": 890,
+      "geom_scale_norm": 2.1992369928879145,
+      "normalized_offset": 404.685808249934,
+      "excluded": true
+    },
+    "El Gordo": {
+      "TSP": 0.91,
+      "offset_kpc": 200,
+      "geom_scale_norm": 0.9506250301790469,
+      "normalized_offset": 210.38789601650896,
+      "excluded": false
+    },
+    "Musket Ball": {
+      "TSP": 1.1,
+      "offset_kpc": 150,
+      "geom_scale_norm": 2.1494357423419452,
+      "normalized_offset": 69.78575681288596,
+      "excluded": false
+    }
+  },
+  "statistics": {
+    "N_clean": 6,
+    "pearson_r": -0.1432067494006633,
+    "pearson_p": 0.7866583303000352,
+    "spearman_rho": -0.3142857142857143,
+    "spearman_p": 0.5440932944606415,
+    "slope": -0.7373998326826973,
+    "slope_err": 31.941422063333157,
+    "intercept": 57.728848391270255
+  }
+}
